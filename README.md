@@ -1,4 +1,9 @@
-👋 Hi, I’m Luca, demographer and sociologist in the making
+  <div align="center">
+  
+# Hi, I’m Luca 👋
 
-👨‍💻 Incoming Sociology Ph.D. student at The Ohio State University
+  <div align="left">
+    
+## 👨‍💻 Demographer and sociologist in the making
+## 🌎 Incoming Sociology Ph.D. student at The Ohio State University
 
